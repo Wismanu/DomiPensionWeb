@@ -1,0 +1,9 @@
+C:\Users\WPOSS\Documents\00 REPOSITORIOS WISMA\DomiPension\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\WPOSS\Documents\00 REPOSITORIOS WISMA\DomiPension\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\WPOSS\Documents\00 REPOSITORIOS WISMA\DomiPension\CapaAccesoDatos\bin\Debug\CapaEntidades.dll
+C:\Users\WPOSS\Documents\00 REPOSITORIOS WISMA\DomiPension\CapaAccesoDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\WPOSS\Documents\00 REPOSITORIOS WISMA\DomiPension\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\WPOSS\Documents\00 REPOSITORIOS WISMA\DomiPension\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\WPOSS\Documents\00 REPOSITORIOS WISMA\DomiPension\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\WPOSS\Documents\00 REPOSITORIOS WISMA\DomiPension\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\WPOSS\Documents\00 REPOSITORIOS WISMA\DomiPension\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
